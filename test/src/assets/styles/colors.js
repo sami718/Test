@@ -1,0 +1,13 @@
+export const purple = '#8031A7';
+export const androidPurple = '#702197';
+export const lightPurple = '#71477c';
+export const transPurple = '#8c22bfc4';
+export const yellow = '#F2A900';
+export const transYellow = '#f2a900bd';
+export const grey = '#888888';
+export const darkGrey = '#303030';
+export const greyTheme = '#565656';
+export const lightGrey = '#cecece';
+export const white = '#fff';
+export const inputError = 'red';
+export const black = '#000000';
